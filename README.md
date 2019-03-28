@@ -1,4 +1,4 @@
-# ConEdDeepDive
+# AzureApidDeepDive
 ## Sample API Management + API endpoints
 
 ### Azure Resources
