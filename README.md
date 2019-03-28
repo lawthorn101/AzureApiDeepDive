@@ -1,4 +1,4 @@
-# AzureApidDeepDive
+# AzureApiDeepDive
 ## Sample API Management + API endpoints
 
 ### Azure Resources
@@ -13,3 +13,6 @@
 * Markdown Cheat Sheet
     * [markdown-cheatsheet-online.pdf](markdown-cheatsheet-online.pdf)
     * or download it from [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* GIT Cheat Sheet
+    * [git-cheat-sheet-education.pdf](git-cheat-sheet-education.pdf)
+    * or download it from [https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
