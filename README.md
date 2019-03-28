@@ -7,8 +7,9 @@
     * https://docs.microsoft.com/en-us/azure/api-management/
 * Import and publish your first API
     * https://docs.microsoft.com/en-us/azure/api-management/import-and-publish
-    
+
 
 ### Additional Resources
 * Markdown Cheat Sheet
-    * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+    * [markdown-cheatsheet-online.pdf](markdown-cheatsheet-online.pdf)
+    * or download it from [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
